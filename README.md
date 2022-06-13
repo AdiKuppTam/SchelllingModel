@@ -1,4 +1,4 @@
-# SchelllingModel
+# Schellling Model for Segregation Prediction
 
 Your neighbors probably look like you. How do I know that? Prof. Thomas Schelling already predicted it in 1978.
 
